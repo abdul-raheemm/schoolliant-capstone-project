@@ -1,0 +1,405 @@
+student_id,student_name,course_name,final_score,project_score,soft_skill_score,attendance_pct,mock_interview_score,placed,salary_band
+S4060,Saad Iqbal,Python for Beginners,84.8,87.8,77.4,87.1,79.6,Yes,Entry
+S4211,Hina Farooqui,Machine Learning,85.7,84.4,89.1,97.4,66.6,Yes,Mid
+S4098,Adeel Qureshi,Machine Learning,75.4,92.1,69.8,86.1,70.2,Yes,Entry
+S4308,Mariam Rizvi,Machine Learning,74.6,75.2,73.1,91.4,64.5,Yes,Entry
+S4195,Talha Khan,SQL Mastery,78.1,89.4,73.4,79.0,73.6,Yes,Mid
+S4347,Usman Farooqui,Machine Learning,77.6,78.2,98.1,95.7,79.8,Yes,Entry
+S4001,Usman Khan,Data Science,88.9,69.8,56.6,82.2,53.0,Yes,Entry
+S4181,Fatima Rizvi,Python for Beginners,72.1,74.3,73.3,86.4,66.4,Yes,Mid
+S4126,Mariam Qureshi,Business Analytics,79.6,94.9,89.1,86.3,72.4,Yes,Entry
+S4096,Zainab Farooqui,SQL Mastery,76.2,78.9,92.5,79.6,77.7,Yes,Entry
+S4005,Sana Qureshi,Machine Learning,69.9,92.9,90.3,89.2,79.1,Yes,Entry
+S4169,Mariam Iqbal,SQL Mastery,35.6,62.4,61.5,88.3,47.3,No,Not Placed
+S4056,Yusuf Ansari,Business Analytics,40.0,64.0,23.0,70.1,58.1,No,Not Placed
+S4009,Usman Chaudhry,Data Science,74.7,86.4,78.3,82.6,80.2,Yes,Mid
+S4112,Faisal Farooqui,Power BI & Tableau,93.1,82.3,67.9,81.9,93.4,Yes,Senior
+S4384,Iqra Ansari,Python for Beginners,69.0,81.9,91.3,90.8,87.6,Yes,Senior
+S4325,Iqra Farooqui,Business Analytics,73.1,38.4,55.9,67.4,42.7,No,Not Placed
+S4176,Adeel Chaudhry,Deep Learning Fundamentals,72.7,74.0,83.4,92.3,69.2,Yes,Entry
+S4289,Sadia Iqbal,Business Analytics,52.5,65.8,56.2,64.3,43.9,No,Not Placed
+S4293,Amina Baig,Deep Learning Fundamentals,23.1,43.8,43.5,80.6,,No,Not Placed
+S4301,Sadia Warsi,Power BI & Tableau,79.2,98.0,88.0,91.3,86.4,Yes,Entry
+S4147,Mariam Abbasi,Data Science,77.8,89.8,74.2,94.8,99.0,Yes,Entry
+S4187,Sana Baig,Data Science,79.1,89.9,82.7,74.5,80.4,Yes,Senior
+S4391,Talha Qureshi,Deep Learning Fundamentals,66.3,63.6,61.4,49.2,40.3,No,Not Placed
+S4238,Yusuf Iqbal,Machine Learning,89.8,86.2,78.4,88.2,89.6,Yes,Entry
+S4214,Omar Warsi,SQL Mastery,46.2,75.0,67.9,57.0,61.0,No,Not Placed
+S4166,Rabia Khan,Python for Beginners,78.4,76.9,62.4,92.2,75.2,Yes,Senior
+S4028,Yusuf Iqbal,Machine Learning,82.1,89.0,79.1,100.0,75.2,Yes,Mid
+S4067,Adeel Chaudhry,Deep Learning Fundamentals,84.5,87.3,84.4,86.2,67.9,Yes,Mid
+S4246,Amina Abbasi,Deep Learning Fundamentals,47.3,73.6,60.0,50.2,50.3,No,Not Placed
+S4378,Zoya Abbasi,SQL Mastery,48.0,57.0,46.0,10.6,44.6,No,Not Placed
+S4069,Laiba Siddiqui,Machine Learning,81.2,78.1,89.4,77.6,71.2,Yes,Entry
+S4198,Yusuf Iqbal,Deep Learning Fundamentals,75.6,74.4,86.8,96.0,69.0,Yes,Entry
+S4110,Faisal Ansari,Deep Learning Fundamentals,70.3,78.9,67.5,85.8,70.5,Yes,Entry
+S4054,Waqas Khan,Business Analytics,57.8,56.6,48.9,81.6,68.4,No,Not Placed
+S4121,Usman Rashid,Power BI & Tableau,85.8,62.0,66.0,93.8,79.2,Yes,Mid
+S4334,Hina Qureshi,Data Science,53.3,55.4,41.1,81.5,22.3,No,Not Placed
+S4363,Sana Ansari,SQL Mastery,34.2,73.2,40.9,51.7,57.1,No,Not Placed
+S4073,Zoya Iqbal,Data Science,95.0,59.8,47.1,74.1,52.1,No,Not Placed
+S4177,Ayesha Sheikh,Python for Beginners,52.9,67.8,33.9,73.5,62.1,No,Not Placed
+S4208,Amina Khan,Python for Beginners,67.9,38.1,61.4,58.9,63.7,No,Not Placed
+S4079,Fatima Ansari,Deep Learning Fundamentals,90.7,70.7,83.5,98.2,81.1,Yes,Entry
+S4065,Fatima Warsi,Data Science,90.2,70.5,77.6,89.6,78.5,Yes,Entry
+S4038,Zoya Chaudhry,Python for Beginners,63.9,62.9,20.0,38.7,11.3,No,Not Placed
+S4026,Faisal Hashmi,Business Analytics,47.4,35.0,52.7,71.8,50.5,No,Not Placed
+S4344,Ahmed Iqbal,Machine Learning,90.0,83.4,61.4,82.5,77.9,Yes,Mid
+S4012,Hina Farooqui,Power BI & Tableau,77.0,85.5,73.0,87.0,73.9,Yes,Mid
+S4258,Ahmed Rashid,Data Science,73.3,83.3,77.6,79.0,75.7,Yes,Entry
+S4241,Ahmed Hashmi,SQL Mastery,83.2,90.0,78.6,88.6,80.8,Yes,Entry
+S4381,Yusuf Farooqui,Python for Beginners,83.2,84.9,75.1,87.1,80.8,Yes,Entry
+S4057,Amina Qureshi,Data Science,72.1,78.3,63.1,72.0,,No,Not Placed
+S4045,Zoya Rizvi,Data Science,79.4,89.5,86.3,81.4,89.7,Yes,Entry
+S4400,Amina Sheikh,Power BI & Tableau,73.6,91.8,64.9,87.0,73.0,Yes,Mid
+S4154,Hamza Farooqui,SQL Mastery,73.8,82.6,89.3,100.0,90.5,Yes,Mid
+S4042,Saad Rizvi,Deep Learning Fundamentals,64.6,60.5,47.5,55.5,70.5,No,Not Placed
+S4188,Talha Khan,Business Analytics,80.6,77.9,79.3,93.5,,Yes,Mid
+S4031,Zain Sheikh,Business Analytics,69.3,83.1,87.7,96.0,74.1,Yes,Entry
+S4234,Adeel Siddiqui,SQL Mastery,46.7,32.8,45.8,77.3,52.5,No,Not Placed
+S4051,Fatima Qureshi,SQL Mastery,95.0,75.9,89.5,79.4,91.2,Yes,Mid
+S4183,Imran Qureshi,Power BI & Tableau,81.4,90.9,95.0,100.0,82.3,Yes,Mid
+S4202,Zainab Rizvi,Data Science,87.0,81.1,76.5,83.9,71.4,Yes,Mid
+S4213,Rabia Chaudhry,Machine Learning,83.9,68.3,74.2,11.5,36.2,No,Not Placed
+S4338,Hina Farooqui,Machine Learning,53.7,41.0,54.0,47.3,42.3,No,Not Placed
+S4222,Rayyan Baig,Data Science,57.7,84.2,63.7,84.0,76.5,Yes,Mid
+S4108,Mariam Malik,Python for Beginners,82.0,82.0,80.1,75.1,80.8,Yes,Entry
+S4318,Hamza Khan,Machine Learning,65.4,66.4,58.8,54.8,32.1,No,Not Placed
+S4223,Omar Abbasi,Power BI & Tableau,85.2,46.2,45.3,52.2,47.0,No,Not Placed
+S4097,Saad Baig,Data Science,80.2,91.2,80.5,81.8,72.1,Yes,Mid
+S4034,Usman Malik,Business Analytics,67.7,85.5,38.8,61.1,33.3,No,Not Placed
+S4374,Omar Abbasi,Machine Learning,84.6,60.4,73.2,78.3,51.5,Yes,Entry
+S4023,Zain Malik,Deep Learning Fundamentals,54.0,80.8,51.6,50.4,56.1,No,Not Placed
+S4229,Zainab Ansari,Data Science,84.3,74.0,66.2,83.2,91.0,Yes,Entry
+S4182,Ayesha Warsi,Data Science,61.4,85.0,73.7,84.6,63.8,Yes,Mid
+S4392,Talha Iqbal,Python for Beginners,71.7,97.9,90.9,87.1,75.0,Yes,Mid
+S4068,Rayyan Chaudhry,Data Science,71.7,80.2,82.2,87.5,83.6,Yes,Mid
+S4190,Ayesha Siddiqui,Machine Learning,61.4,44.4,20.0,47.6,45.7,No,Not Placed
+S4018,Zain Baig,Deep Learning Fundamentals,58.1,46.4,69.0,64.2,26.1,No,Not Placed
+S4257,Zoya Ansari,Python for Beginners,90.1,70.3,68.4,91.5,69.4,Yes,Mid
+S4228,Rabia Abbasi,SQL Mastery,83.6,77.0,73.9,95.0,,Yes,Senior
+S4390,Adeel Sheikh,Data Science,95.0,82.6,79.5,86.7,67.4,Yes,Entry
+S4304,Kashif Iqbal,SQL Mastery,81.2,62.1,29.7,49.1,48.5,No,Not Placed
+S4269,Iqra Farooqui,Business Analytics,92.4,87.6,65.2,78.4,75.6,Yes,Entry
+S4085,Zoya Rizvi,Machine Learning,46.1,46.3,57.1,84.1,44.7,No,Not Placed
+S4159,Ayesha Hashmi,Data Science,78.9,80.5,75.0,98.4,81.7,Yes,Mid
+S4203,Zainab Warsi,Machine Learning,43.2,73.5,43.4,56.5,44.8,No,Not Placed
+S4127,Sarah Sheikh,Machine Learning,63.3,60.1,54.0,65.7,80.2,No,Not Placed
+S4371,Mahnoor Abbasi,Deep Learning Fundamentals,95.1,100.0,69.6,81.4,84.5,Yes,Entry
+S4090,Fatima Iqbal,Data Science,61.8,46.2,43.7,99.6,,No,Not Placed
+S4352,Mahnoor Ansari,Business Analytics,59.6,59.8,51.0,37.2,51.2,No,Not Placed
+S4332,Ayesha Warsi,Machine Learning,83.3,85.3,73.4,91.3,99.6,Yes,Mid
+S4080,Kashif Warsi,Power BI & Tableau,69.4,84.2,100.0,87.7,77.3,Yes,Entry
+S4254,Zoya Malik,Business Analytics,94.6,82.1,76.2,76.0,77.2,Yes,Entry
+S4243,Hina Khan,Business Analytics,71.4,61.3,43.1,63.9,53.4,No,Not Placed
+S4186,Bilal Khan,Machine Learning,72.2,64.7,43.9,59.8,50.2,No,Not Placed
+S4377,Hina Baig,Business Analytics,54.6,54.4,38.3,75.0,41.4,No,Not Placed
+S4284,Mariam Qureshi,Machine Learning,82.7,74.3,87.6,85.8,77.8,Yes,Entry
+S4226,Faisal Sheikh,Business Analytics,83.2,91.0,83.7,93.2,70.6,Yes,Entry
+S4398,Talha Khan,Power BI & Tableau,85.0,90.4,92.0,90.4,79.8,Yes,Mid
+S4136,Hamza Qureshi,Deep Learning Fundamentals,77.2,78.6,79.1,94.7,83.2,Yes,Entry
+S4326,Bilal Rizvi,SQL Mastery,89.1,75.4,85.7,92.8,77.7,Yes,Mid
+S4128,Usman Rashid,Power BI & Tableau,79.9,80.7,77.2,99.4,91.7,Yes,Entry
+S4115,Waqas Qureshi,Machine Learning,52.2,23.6,83.2,82.0,57.1,No,Not Placed
+S4251,Ayesha Ansari,Machine Learning,64.8,71.5,74.8,92.8,99.6,Yes,Senior
+S4396,Waqas Abbasi,SQL Mastery,55.2,35.8,72.4,60.6,20.9,No,Not Placed
+S4261,Zain Baig,SQL Mastery,59.1,54.8,59.4,67.1,56.2,No,Not Placed
+S4167,Ahmed Warsi,Machine Learning,88.8,94.3,99.8,85.4,82.2,Yes,Mid
+S4232,Zainab Farooqui,Deep Learning Fundamentals,39.4,69.4,62.1,36.5,57.7,No,Not Placed
+S4248,Omar Warsi,SQL Mastery,67.7,73.6,58.9,85.7,87.1,Yes,Entry
+S4276,Zainab Rizvi,Deep Learning Fundamentals,80.1,88.8,88.3,98.2,100.0,Yes,Mid
+S4275,Ahmed Rizvi,Business Analytics,71.0,51.8,56.1,47.4,56.0,No,Not Placed
+S4163,Saad Farooqui,Machine Learning,85.4,87.9,77.5,89.0,72.8,Yes,Entry
+S4152,Mariam Sheikh,Deep Learning Fundamentals,83.6,77.5,82.5,89.0,62.8,Yes,Entry
+S4297,Rabia Qureshi,Python for Beginners,13.0,58.3,67.2,75.6,91.6,No,Not Placed
+S4343,Bilal Sheikh,Machine Learning,81.8,77.9,79.8,95.6,67.2,Yes,Mid
+S4132,Sana Rashid,Business Analytics,67.0,64.5,78.2,46.1,63.3,No,Not Placed
+S4105,Sarah Rashid,Data Science,70.5,84.0,75.3,94.4,74.2,Yes,Senior
+S4373,Iqra Farooqui,Deep Learning Fundamentals,50.9,46.9,59.0,77.7,39.2,No,Not Placed
+S4212,Sadia Rizvi,Machine Learning,70.4,98.1,86.4,68.8,74.2,Yes,Mid
+S4204,Hina Baig,Machine Learning,54.4,43.4,51.3,38.1,71.6,No,Not Placed
+S4365,Sana Rashid,Python for Beginners,91.7,83.7,100.0,92.9,60.0,Yes,Mid
+S4196,Omar Abbasi,Python for Beginners,50.9,49.3,52.2,75.8,31.2,No,Not Placed
+S4303,Usman Rizvi,Power BI & Tableau,71.0,88.0,88.8,73.3,96.4,Yes,Entry
+S4093,Sana Siddiqui,Python for Beginners,60.4,87.5,80.1,89.6,94.7,Yes,Mid
+S4315,Iqra Siddiqui,Business Analytics,74.5,87.4,76.1,86.9,86.3,Yes,Entry
+S4194,Nida Farooqui,Power BI & Tableau,33.9,57.1,60.8,65.7,38.3,No,Not Placed
+S4307,Zain Khan,Machine Learning,81.4,90.0,79.2,95.0,76.1,Yes,Mid
+S4288,Kashif Baig,SQL Mastery,81.1,92.3,82.6,85.5,75.5,Yes,Entry
+S4370,Sana Qureshi,Python for Beginners,85.9,63.7,76.2,94.0,69.3,Yes,Senior
+S4178,Zoya Rizvi,Business Analytics,100.0,87.7,62.1,79.1,70.8,Yes,Mid
+S4278,Sadia Ansari,Machine Learning,54.6,54.1,71.2,39.8,64.0,No,Not Placed
+S4074,Ayesha Chaudhry,SQL Mastery,80.6,70.3,78.0,89.9,56.2,Yes,Mid
+S4041,Saad Abbasi,Machine Learning,73.3,63.1,90.5,92.1,73.4,Yes,Mid
+S4142,Sarah Rashid,Machine Learning,79.5,83.4,66.1,98.4,86.4,Yes,Entry
+S4329,Imran Siddiqui,SQL Mastery,53.8,40.8,46.1,79.6,45.0,No,Not Placed
+S4389,Faisal Chaudhry,Data Science,66.7,69.1,37.4,52.0,35.7,No,Not Placed
+S4155,Hina Ansari,Python for Beginners,74.7,85.2,80.8,100.0,77.4,Yes,Entry
+S4306,Faisal Rizvi,Machine Learning,43.8,44.2,48.9,92.4,45.5,No,Not Placed
+S4070,Bilal Farooqui,Machine Learning,70.7,84.3,88.7,92.8,60.3,Yes,Mid
+S4219,Zain Chaudhry,Power BI & Tableau,44.1,69.9,66.6,51.3,43.2,No,Not Placed
+S4327,Mariam Sheikh,Machine Learning,80.3,96.8,86.6,73.6,71.1,Yes,Entry
+S4033,Omar Abbasi,Deep Learning Fundamentals,58.3,45.8,32.5,32.6,41.7,No,Not Placed
+S4004,Amina Abbasi,SQL Mastery,78.3,73.7,90.8,83.0,74.2,Yes,Entry
+S4014,Saad Malik,Deep Learning Fundamentals,77.3,59.2,40.7,44.3,52.9,No,Not Placed
+S4235,Sadia Khan,SQL Mastery,83.5,87.0,71.7,74.2,67.0,Yes,Mid
+S4071,Imran Khan,Data Science,73.9,71.2,71.9,53.8,54.6,No,Not Placed
+S4220,Talha Rizvi,Power BI & Tableau,74.8,89.5,76.9,93.4,58.2,Yes,Mid
+S4393,Saad Abbasi,Machine Learning,91.4,71.7,76.4,89.8,67.5,Yes,Mid
+S4279,Zoya Sheikh,SQL Mastery,70.3,91.9,74.4,91.8,60.2,Yes,Mid
+S4369,Waqas Hashmi,Deep Learning Fundamentals,59.8,28.8,43.1,56.7,45.6,No,Not Placed
+S4375,Ahmed Rizvi,Machine Learning,59.2,58.2,36.5,85.4,37.4,No,Not Placed
+S4324,Bilal Chaudhry,Data Science,83.3,74.3,83.7,91.3,80.1,Yes,Entry
+S4349,Rayyan Abbasi,Data Science,91.8,85.2,83.1,86.6,77.6,Yes,Mid
+S4197,Iqra Baig,Data Science,70.6,72.3,74.0,91.4,66.1,Yes,Mid
+S4091,Waqas Rizvi,Python for Beginners,76.0,32.3,28.4,54.4,70.1,No,Not Placed
+S4280,Sarah Ansari,Power BI & Tableau,27.9,46.2,53.4,88.1,38.1,No,Not Placed
+S4111,Zoya Rashid,Data Science,81.9,58.1,62.4,39.5,39.7,No,Not Placed
+S4336,Zainab Hashmi,Machine Learning,93.7,87.4,67.3,93.4,92.1,Yes,Entry
+S4139,Amina Qureshi,Data Science,78.6,89.5,80.4,92.3,76.0,Yes,Mid
+S4296,Mahnoor Warsi,Python for Beginners,41.4,60.2,66.4,63.9,55.5,No,Not Placed
+S4262,Kashif Hashmi,Data Science,83.1,85.9,78.1,82.1,81.3,Yes,Mid
+S4240,Waqas Sheikh,SQL Mastery,91.3,46.0,24.6,74.4,45.1,No,Not Placed
+S4312,Amina Warsi,SQL Mastery,38.1,62.1,75.7,58.2,57.5,No,Not Placed
+S4138,Bilal Qureshi,Machine Learning,73.0,41.6,38.7,77.0,58.8,No,Not Placed
+S4164,Hina Farooqui,Data Science,74.7,89.6,79.5,78.7,67.2,Yes,Entry
+S4101,Nida Warsi,Power BI & Tableau,87.9,87.2,82.3,89.7,100.0,Yes,Mid
+S4053,Amina Rashid,SQL Mastery,82.7,82.0,97.3,81.3,67.4,Yes,Entry
+S4357,Usman Rizvi,Data Science,59.8,72.9,41.2,74.0,58.3,No,Not Placed
+S4089,Hamza Rizvi,Python for Beginners,61.0,44.4,74.2,71.3,50.6,No,Not Placed
+S4239,Sana Hashmi,Machine Learning,77.7,77.6,76.4,100.0,67.7,Yes,Entry
+S4035,Nida Khan,Machine Learning,91.3,75.7,87.5,94.0,53.7,Yes,Entry
+S4283,Zain Baig,Deep Learning Fundamentals,24.3,53.0,66.6,38.8,50.8,No,Not Placed
+S4046,Talha Baig,SQL Mastery,82.2,69.3,64.4,96.2,90.9,Yes,Mid
+S4036,Hamza Qureshi,Deep Learning Fundamentals,80.8,76.6,72.9,90.4,86.0,Yes,Entry
+S4095,Laiba Siddiqui,Data Science,43.9,67.0,60.9,85.8,47.0,No,Not Placed
+S4282,Zoya Abbasi,Power BI & Tableau,80.7,80.8,80.9,78.8,62.9,Yes,Entry
+S4287,Faisal Farooqui,Power BI & Tableau,68.2,62.1,45.0,78.1,33.2,No,Not Placed
+S4383,Rabia Malik,Machine Learning,79.3,96.1,85.8,86.4,,Yes,Entry
+S4319,Fatima Rizvi,Deep Learning Fundamentals,68.0,55.7,25.8,45.2,62.1,No,Not Placed
+S4160,Zoya Rizvi,SQL Mastery,67.6,79.0,35.3,34.9,38.0,No,Not Placed
+S4345,Sana Baig,Data Science,82.7,88.8,69.3,89.0,96.6,Yes,Mid
+S4094,Adeel Warsi,Machine Learning,78.4,85.4,76.4,89.8,59.9,Yes,Mid
+S4263,Iqra Sheikh,Business Analytics,65.8,59.5,71.9,48.3,44.3,No,Not Placed
+S4259,Adeel Sheikh,Data Science,81.3,56.6,23.4,77.8,77.3,No,Not Placed
+S4157,Amina Iqbal,Data Science,81.5,78.3,76.8,93.8,80.0,Yes,Mid
+S4114,Iqra Hashmi,Data Science,70.9,73.1,72.1,79.9,89.4,Yes,Entry
+S4072,Sadia Hashmi,SQL Mastery,56.4,39.6,53.9,59.9,34.7,No,Not Placed
+S4013,Zoya Qureshi,SQL Mastery,64.4,51.0,37.0,51.2,44.5,No,Not Placed
+S4150,Rayyan Rizvi,Machine Learning,46.4,61.8,51.2,57.8,24.2,No,Not Placed
+S4209,Mariam Ansari,Business Analytics,71.7,56.4,64.3,67.2,28.4,No,Not Placed
+S4236,Rayyan Siddiqui,Machine Learning,52.6,68.2,95.0,36.6,49.8,No,Not Placed
+S4063,Adeel Sheikh,SQL Mastery,64.0,63.4,53.7,65.3,57.3,No,Not Placed
+S4027,Zoya Malik,SQL Mastery,82.9,77.0,85.6,100.0,,Yes,Mid
+S4133,Fatima Baig,SQL Mastery,72.0,55.9,62.0,80.2,32.9,No,Not Placed
+S4078,Hamza Baig,Business Analytics,61.1,66.6,47.8,64.3,34.5,No,Not Placed
+S4140,Zoya Sheikh,Business Analytics,77.9,85.7,96.1,82.3,82.0,Yes,Entry
+S4130,Amina Malik,Machine Learning,90.8,81.6,68.8,81.2,78.0,Yes,Entry
+S4273,Adeel Qureshi,SQL Mastery,78.7,77.8,88.6,92.2,66.7,Yes,Entry
+S4331,Rayyan Abbasi,Machine Learning,61.7,30.7,43.2,21.3,58.4,No,Not Placed
+S4242,Laiba Chaudhry,Deep Learning Fundamentals,79.2,100.0,77.8,100.0,94.6,Yes,Entry
+S4295,Waqas Malik,Python for Beginners,62.2,88.7,74.7,98.9,83.1,Yes,Entry
+S4399,Rayyan Malik,Deep Learning Fundamentals,82.8,95.0,67.3,84.7,51.4,Yes,Entry
+S4024,Fatima Khan,Power BI & Tableau,73.4,98.0,75.9,97.7,73.1,Yes,Entry
+S4335,Usman Abbasi,Power BI & Tableau,66.4,59.0,51.1,59.4,,No,Not Placed
+S4172,Zoya Rizvi,SQL Mastery,60.5,52.9,65.7,85.3,57.2,No,Not Placed
+S4260,Adeel Qureshi,SQL Mastery,52.2,57.5,30.9,75.0,35.3,No,Not Placed
+S4274,Rayyan Rashid,Machine Learning,83.9,78.7,74.8,87.9,58.8,Yes,Senior
+S4088,Faisal Hashmi,SQL Mastery,90.1,67.4,51.3,69.7,41.1,No,Not Placed
+S4081,Hina Hashmi,Power BI & Tableau,83.1,83.9,80.6,98.0,,Yes,Mid
+S4043,Zainab Chaudhry,Business Analytics,81.4,85.9,93.7,89.8,63.0,Yes,Entry
+S4107,Sadia Khan,Data Science,77.0,82.8,87.2,92.6,79.3,Yes,Entry
+S4120,Nida Chaudhry,Python for Beginners,73.5,65.1,71.0,82.3,70.5,Yes,Entry
+S4379,Sana Baig,Power BI & Tableau,90.9,84.3,79.8,97.1,76.0,Yes,Entry
+S4299,Rayyan Baig,Python for Beginners,81.6,73.8,83.9,91.5,59.8,Yes,Entry
+S4309,Nida Khan,Machine Learning,58.2,39.6,67.5,83.3,22.2,No,Not Placed
+S4143,Zain Farooqui,SQL Mastery,83.0,81.4,83.2,100.0,78.9,Yes,Entry
+S4337,Amina Khan,SQL Mastery,71.4,34.1,59.8,79.8,43.1,No,Not Placed
+S4388,Zainab Rashid,Deep Learning Fundamentals,73.0,61.1,47.5,59.1,38.5,No,Not Placed
+S4346,Usman Khan,SQL Mastery,84.8,100.0,78.9,84.2,88.0,Yes,Mid
+S4084,Rayyan Iqbal,Power BI & Tableau,87.8,87.3,92.8,86.0,83.8,Yes,Entry
+S4083,Iqra Rashid,Business Analytics,70.2,24.1,61.2,40.6,60.0,No,Not Placed
+S4244,Iqra Qureshi,Deep Learning Fundamentals,100.0,88.2,76.5,92.7,69.7,Yes,Entry
+S4117,Iqra Farooqui,Python for Beginners,41.7,73.5,32.5,55.2,73.8,No,Not Placed
+S4285,Fatima Khan,Power BI & Tableau,68.5,65.3,37.2,36.3,26.5,No,Not Placed
+S4252,Rabia Baig,Machine Learning,69.0,73.2,73.6,94.5,74.4,Yes,Mid
+S4002,Yusuf Qureshi,SQL Mastery,58.9,91.0,81.7,87.0,67.9,Yes,Mid
+S4399,Rayyan Malik,Deep Learning Fundamentals,82.8,95.0,67.3,84.7,51.4,Yes,Entry
+S4104,Ahmed Rashid,Data Science,78.0,79.1,57.1,92.2,84.5,Yes,Entry
+S4006,Rabia Baig,Deep Learning Fundamentals,36.7,47.1,78.2,63.7,58.3,No,Not Placed
+S4149,Talha Rashid,Python for Beginners,67.0,84.0,57.1,76.7,75.8,Yes,Entry
+S4342,Fatima Rizvi,Deep Learning Fundamentals,89.6,75.0,76.0,89.9,84.3,Yes,Mid
+S4129,Amina Iqbal,Data Science,85.5,78.9,56.8,95.2,66.7,Yes,Entry
+S4368,Nida Sheikh,Power BI & Tableau,77.7,99.3,73.8,75.4,81.6,Yes,Entry
+S4146,Hina Baig,Data Science,78.3,85.5,74.6,89.7,87.4,Yes,Senior
+S4372,Adeel Khan,Business Analytics,80.3,74.5,85.6,79.5,90.4,Yes,Entry
+S4165,Yusuf Ansari,Deep Learning Fundamentals,79.5,71.7,71.6,90.5,64.3,Yes,Mid
+S4360,Ahmed Farooqui,Business Analytics,86.1,73.7,96.5,80.2,92.0,Yes,Entry
+S4340,Yusuf Qureshi,Business Analytics,69.1,76.4,89.1,92.7,67.7,Yes,Mid
+S4217,Faisal Baig,Data Science,85.2,76.8,77.4,94.2,78.1,Yes,Mid
+S4292,Zoya Hashmi,Machine Learning,83.7,93.0,82.0,100.0,70.7,Yes,Mid
+S4058,Zoya Khan,Deep Learning Fundamentals,58.6,46.7,52.5,100.0,48.6,No,Not Placed
+S4267,Talha Rashid,Deep Learning Fundamentals,52.7,85.4,93.0,87.3,72.0,No,Not Placed
+S4199,Nida Qureshi,SQL Mastery,48.7,74.3,40.1,65.9,18.9,No,Not Placed
+S4066,Ahmed Farooqui,Business Analytics,63.6,69.6,65.6,79.2,67.9,Yes,Senior
+S4302,Ayesha Abbasi,Data Science,80.4,89.8,59.3,90.8,78.8,Yes,Mid
+S4395,Rabia Farooqui,Deep Learning Fundamentals,59.3,64.8,20.8,41.5,44.1,No,Not Placed
+S4077,Sadia Warsi,Power BI & Tableau,81.5,91.4,80.1,80.6,82.1,Yes,Entry
+S4040,Omar Rizvi,Deep Learning Fundamentals,80.4,73.4,96.5,93.5,89.3,Yes,Entry
+S4255,Adeel Siddiqui,Power BI & Tableau,72.7,76.1,67.4,76.0,76.4,Yes,Mid
+S4180,Usman Baig,Python for Beginners,78.5,91.6,89.9,84.2,82.9,Yes,Entry
+S4264,Kashif Hashmi,SQL Mastery,79.7,79.7,69.1,94.5,72.3,Yes,Entry
+S4380,Ahmed Hashmi,Business Analytics,52.9,59.9,48.4,63.8,31.2,No,Not Placed
+S4210,Omar Hashmi,Deep Learning Fundamentals,59.1,44.0,24.7,67.8,31.9,No,Not Placed
+S4291,Hamza Rashid,Power BI & Tableau,87.1,69.6,90.3,70.8,81.7,Yes,Entry
+S4025,Ayesha Warsi,Deep Learning Fundamentals,81.5,88.1,73.3,86.9,88.5,Yes,Mid
+S4322,Laiba Qureshi,Business Analytics,81.9,81.9,87.5,73.5,82.8,Yes,Entry
+S4225,Bilal Farooqui,Business Analytics,76.9,90.3,77.0,85.1,74.0,Yes,Entry
+S4313,Fatima Ansari,Machine Learning,73.5,44.5,39.0,97.6,26.9,No,Not Placed
+S4356,Ahmed Khan,Machine Learning,76.2,46.0,78.2,53.3,21.0,No,Not Placed
+S4179,Saad Iqbal,Business Analytics,73.5,34.3,77.5,70.0,48.5,No,Not Placed
+S4320,Iqra Chaudhry,Power BI & Tableau,70.5,86.0,86.2,90.5,76.7,Yes,Senior
+S4314,Omar Abbasi,Power BI & Tableau,74.9,73.3,89.4,84.7,65.0,Yes,Mid
+S4102,Rayyan Malik,Data Science,63.6,58.0,51.6,43.6,35.6,No,Not Placed
+S4290,Bilal Qureshi,Python for Beginners,49.0,95.0,36.0,57.8,63.8,No,Not Placed
+S4173,Laiba Qureshi,Business Analytics,58.9,71.2,57.4,69.4,46.8,No,Not Placed
+S4351,Zoya Sheikh,Python for Beginners,73.0,75.7,80.0,79.8,74.7,Yes,Entry
+S4118,Fatima Iqbal,Deep Learning Fundamentals,44.1,44.5,78.1,69.8,49.4,No,Not Placed
+S4233,Nida Siddiqui,Deep Learning Fundamentals,60.4,65.0,39.2,76.5,34.5,No,Not Placed
+S4122,Sarah Iqbal,Python for Beginners,72.6,68.2,91.2,91.1,76.3,Yes,Senior
+S4215,Hina Chaudhry,Data Science,78.0,78.4,72.1,86.1,74.5,Yes,Mid
+S4247,Saad Sheikh,Data Science,63.8,56.7,36.3,34.6,40.4,No,Not Placed
+S4253,Hina Siddiqui,Machine Learning,41.2,51.5,63.1,62.4,43.9,No,Not Placed
+S4367,Adeel Qureshi,Power BI & Tableau,73.7,95.5,81.3,88.0,59.9,Yes,Mid
+S4125,Waqas Sheikh,Python for Beginners,48.6,44.5,46.4,73.6,36.5,No,Not Placed
+S4333,Ahmed Farooqui,Machine Learning,82.3,88.6,80.9,88.5,80.2,Yes,Entry
+S4011,Fatima Ansari,Data Science,80.1,74.6,71.9,100.0,71.3,Yes,Entry
+S4055,Talha Khan,Business Analytics,24.3,39.6,69.4,72.5,61.8,No,Not Placed
+S4353,Usman Malik,Business Analytics,53.8,53.8,30.6,50.6,41.6,No,Not Placed
+S4300,Iqra Qureshi,Data Science,64.5,76.0,61.8,93.4,79.5,Yes,Entry
+S4141,Saad Farooqui,Business Analytics,78.7,65.3,77.8,86.0,69.7,Yes,Entry
+S4354,Omar Chaudhry,Data Science,76.1,72.3,65.4,94.9,70.3,Yes,Mid
+S4030,Omar Abbasi,Business Analytics,61.7,52.1,58.5,56.5,73.8,No,Not Placed
+S4131,Usman Ansari,Machine Learning,71.2,84.5,88.5,93.5,58.4,Yes,Entry
+S4061,Hina Abbasi,Business Analytics,74.5,67.2,64.4,77.0,50.1,No,Not Placed
+S4206,Saad Hashmi,Python for Beginners,76.6,85.8,89.2,80.5,70.2,Yes,Mid
+S4015,Nida Ansari,Data Science,74.4,86.2,91.2,97.5,95.5,Yes,Entry
+S4386,Yusuf Qureshi,Deep Learning Fundamentals,90.1,86.6,81.9,97.8,72.4,Yes,Entry
+S4281,Zain Farooqui,Machine Learning,85.2,71.2,86.3,79.4,77.2,Yes,Entry
+S4185,Zoya Qureshi,Business Analytics,88.3,91.8,69.1,91.3,70.5,Yes,Mid
+S4189,Fatima Hashmi,Deep Learning Fundamentals,48.7,60.0,46.7,52.3,,No,Not Placed
+S4397,Zoya Khan,Python for Beginners,80.5,81.8,55.4,86.8,96.3,Yes,Entry
+S4193,Waqas Farooqui,Power BI & Tableau,61.1,63.0,21.3,57.8,69.6,No,Not Placed
+S4237,Ahmed Khan,Data Science,64.7,67.9,40.8,52.5,52.4,No,Not Placed
+S4286,Rabia Ansari,SQL Mastery,69.8,88.1,67.7,80.7,73.4,Yes,Senior
+S4158,Fatima Qureshi,Power BI & Tableau,78.9,84.4,68.3,29.0,21.9,No,Not Placed
+S4050,Sadia Abbasi,Python for Beginners,26.9,53.7,62.9,46.4,47.3,No,Not Placed
+S4205,Talha Farooqui,SQL Mastery,40.9,70.4,35.9,33.4,54.6,No,Not Placed
+S4151,Iqra Khan,Business Analytics,72.4,90.9,96.5,79.7,68.4,Yes,Mid
+S4298,Saad Malik,Python for Beginners,49.4,51.6,43.9,64.0,57.1,No,Not Placed
+S4265,Mahnoor Malik,Business Analytics,52.7,83.6,59.4,57.6,32.8,No,Not Placed
+S4339,Mariam Iqbal,SQL Mastery,73.0,82.3,52.9,87.1,85.7,Yes,Mid
+S4191,Bilal Rizvi,Deep Learning Fundamentals,32.7,37.6,37.7,82.8,56.5,No,Not Placed
+S4162,Bilal Chaudhry,SQL Mastery,41.7,49.9,67.9,54.7,79.3,No,Not Placed
+S4075,Waqas Rizvi,Machine Learning,48.1,67.7,49.7,68.6,63.6,No,Not Placed
+S4145,Zainab Farooqui,Data Science,78.9,83.5,78.9,93.3,68.1,Yes,Mid
+S4170,Waqas Siddiqui,Data Science,56.9,90.5,39.5,77.0,54.0,No,Not Placed
+S4100,Kashif Baig,Business Analytics,73.1,92.3,95.0,100.0,80.8,Yes,Entry
+S4358,Kashif Qureshi,Machine Learning,67.4,57.5,70.5,21.9,40.1,No,Not Placed
+S4016,Sadia Iqbal,Power BI & Tableau,58.1,81.6,87.9,84.2,75.9,Yes,Entry
+S4044,Ayesha Abbasi,Data Science,73.2,86.0,86.7,87.8,84.6,Yes,Mid
+S4059,Mariam Farooqui,Deep Learning Fundamentals,83.6,52.3,44.9,73.5,41.9,No,Not Placed
+S4394,Rayyan Abbasi,Machine Learning,76.5,80.8,68.5,78.4,77.8,Yes,Senior
+S4168,Ahmed Farooqui,Machine Learning,91.5,75.5,99.7,100.0,75.6,Yes,Entry
+S4221,Ahmed Khan,Machine Learning,67.6,57.7,82.7,97.0,66.5,No,Not Placed
+S4175,Saad Ansari,Business Analytics,73.8,51.0,48.3,32.4,12.7,No,Not Placed
+S4268,Faisal Rizvi,Business Analytics,59.0,81.1,33.2,77.4,58.4,No,Not Placed
+S4076,Rayyan Rashid,Power BI & Tableau,75.5,29.8,41.3,57.3,59.3,No,Not Placed
+S4148,Hina Farooqui,Python for Beginners,70.7,83.0,71.8,85.2,68.3,Yes,Entry
+S4126,Mariam Qureshi,Business Analytics,79.6,94.9,89.1,86.3,72.4,Yes,Entry
+S4256,Ahmed Warsi,Data Science,79.6,82.1,78.3,85.2,86.0,Yes,Entry
+S4007,Hamza Rashid,Business Analytics,77.6,62.1,94.3,86.0,72.5,Yes,Senior
+S4153,Hina Baig,SQL Mastery,58.0,46.0,34.3,83.1,45.4,No,Not Placed
+S4227,Ayesha Malik,Machine Learning,69.7,76.9,66.8,88.1,65.2,Yes,Entry
+S4216,Talha Khan,Machine Learning,71.4,43.4,63.4,60.9,33.9,No,Not Placed
+S4099,Yusuf Farooqui,Python for Beginners,84.8,89.3,58.5,81.8,,Yes,Senior
+S4249,Waqas Chaudhry,Business Analytics,82.7,89.8,78.2,79.9,58.7,Yes,Senior
+S4277,Talha Iqbal,Data Science,54.7,44.7,31.6,52.1,35.4,No,Not Placed
+S4106,Yusuf Ansari,Python for Beginners,66.9,64.8,56.0,37.0,56.9,No,Not Placed
+S4184,Rabia Baig,Power BI & Tableau,70.4,64.1,22.1,59.1,42.3,No,Not Placed
+S4245,Kashif Khan,Python for Beginners,63.4,66.8,43.6,11.4,53.3,No,Not Placed
+S4250,Mahnoor Chaudhry,SQL Mastery,63.7,93.6,75.7,81.1,77.6,Yes,Entry
+S4119,Talha Qureshi,SQL Mastery,82.8,84.3,45.9,87.8,80.4,Yes,Senior
+S4207,Adeel Rizvi,Power BI & Tableau,44.7,69.6,60.2,57.7,42.3,No,Not Placed
+S4113,Hamza Chaudhry,Data Science,86.8,89.5,67.3,100.0,83.9,Yes,Entry
+S4017,Ayesha Malik,Deep Learning Fundamentals,85.7,90.4,86.0,94.9,71.1,Yes,Entry
+S4305,Laiba Baig,Business Analytics,80.7,68.5,78.1,80.0,75.8,Yes,Mid
+S4376,Waqas Iqbal,Data Science,79.2,76.2,84.0,81.2,63.8,Yes,Entry
+S4020,Sana Siddiqui,Power BI & Tableau,51.3,53.6,33.8,70.2,33.8,No,Not Placed
+S4231,Zoya Abbasi,Data Science,90.5,100.0,85.5,79.4,71.1,Yes,Entry
+S4008,Omar Rashid,Python for Beginners,77.1,65.2,37.5,70.9,46.8,No,Not Placed
+S4330,Kashif Abbasi,Data Science,74.4,80.2,62.3,84.3,66.6,Yes,Entry
+S4161,Zainab Iqbal,Machine Learning,63.2,75.0,72.7,93.2,76.0,Yes,Entry
+S4135,Ahmed Sheikh,SQL Mastery,52.9,62.7,49.3,71.1,46.9,No,Not Placed
+S4047,Sadia Iqbal,Business Analytics,84.8,85.6,65.2,86.7,56.9,Yes,Mid
+S4123,Sana Qureshi,Power BI & Tableau,78.6,76.1,61.2,93.8,90.9,Yes,Entry
+S4311,Adeel Rizvi,SQL Mastery,66.6,86.2,92.5,90.5,69.5,Yes,Entry
+S4039,Ahmed Malik,Machine Learning,78.3,39.5,43.4,99.2,53.5,No,Not Placed
+S4294,Zoya Ansari,Business Analytics,77.4,82.7,75.1,88.0,62.2,Yes,Senior
+S4092,Saad Baig,Business Analytics,77.4,94.2,97.0,84.4,68.6,Yes,Entry
+S4382,Zoya Warsi,Python for Beginners,91.1,86.2,79.1,86.8,63.3,Yes,Entry
+S4218,Adeel Baig,SQL Mastery,76.2,85.4,95.8,96.5,,Yes,Senior
+S4124,Zain Qureshi,Python for Beginners,77.1,95.5,80.2,93.3,81.1,Yes,Mid
+S4037,Waqas Warsi,Data Science,81.0,96.3,60.1,85.0,68.3,Yes,Mid
+S4200,Sana Iqbal,Data Science,82.8,86.3,73.9,89.8,71.1,Yes,Mid
+S4003,Zoya Iqbal,Power BI & Tableau,69.0,76.4,63.7,86.9,41.6,No,Not Placed
+S4321,Laiba Chaudhry,Data Science,69.4,90.9,84.4,84.5,80.3,Yes,Mid
+S4048,Zain Farooqui,Power BI & Tableau,36.2,25.9,51.8,90.9,68.6,No,Not Placed
+S4224,Faisal Rizvi,Python for Beginners,43.8,65.4,52.1,80.8,66.6,No,Not Placed
+S4029,Zain Abbasi,Machine Learning,58.1,53.5,54.9,86.0,59.3,No,Not Placed
+S4201,Iqra Farooqui,Deep Learning Fundamentals,80.5,73.9,66.4,94.8,73.4,Yes,Entry
+S4022,Bilal Khan,Business Analytics,77.0,58.4,92.6,91.1,75.5,Yes,Entry
+S4174,Nida Khan,Machine Learning,67.6,45.2,15.1,51.0,66.9,No,Not Placed
+S4021,Laiba Warsi,SQL Mastery,90.7,78.1,73.7,68.9,60.1,Yes,Senior
+S4032,Imran Hashmi,Python for Beginners,65.0,70.9,18.8,33.0,31.8,No,Not Placed
+S4087,Yusuf Rizvi,Power BI & Tableau,86.8,83.3,85.4,86.2,91.3,Yes,Entry
+S4064,Rayyan Rashid,Python for Beginners,56.1,66.7,46.9,28.6,48.8,No,Not Placed
+S4348,Nida Abbasi,Data Science,67.5,79.9,70.4,82.5,87.0,Yes,Mid
+S4272,Mariam Malik,Power BI & Tableau,60.1,39.1,34.1,33.6,55.5,No,Not Placed
+S4364,Sana Farooqui,Python for Beginners,83.4,82.1,78.9,88.6,81.3,Yes,Entry
+S4082,Omar Malik,Deep Learning Fundamentals,73.1,91.0,78.4,76.8,83.9,Yes,Mid
+S4230,Hamza Qureshi,Deep Learning Fundamentals,64.4,80.0,60.1,89.5,82.3,Yes,Entry
+S4010,Zain Khan,Machine Learning,81.2,83.3,85.1,98.1,99.6,Yes,Mid
+S4359,Hamza Ansari,Machine Learning,71.8,86.2,70.1,93.9,61.4,Yes,Entry
+S4323,Usman Khan,Business Analytics,60.8,45.8,52.3,83.9,57.5,No,Not Placed
+S4329,Imran Siddiqui,SQL Mastery,53.8,40.8,46.1,79.6,45.0,No,Not Placed
+S4171,Zain Khan,Machine Learning,73.7,87.0,71.3,82.0,77.5,Yes,Mid
+S4385,Waqas Farooqui,SQL Mastery,58.0,74.2,92.0,93.6,66.6,Yes,Entry
+S4328,Bilal Ansari,Business Analytics,89.7,74.3,76.8,81.3,89.7,Yes,Entry
+S4310,Zoya Chaudhry,SQL Mastery,58.9,57.7,61.1,31.8,56.2,No,Not Placed
+S4052,Rabia Chaudhry,Deep Learning Fundamentals,72.2,85.2,61.1,58.1,54.5,No,Not Placed
+S4266,Ayesha Sheikh,Python for Beginners,68.6,81.5,35.4,63.2,12.2,No,Not Placed
+S4387,Sadia Malik,SQL Mastery,83.9,82.3,49.2,92.2,68.0,Yes,Entry
+S4103,Usman Baig,Python for Beginners,82.5,72.1,81.4,93.7,64.7,Yes,Entry
+S4271,Amina Rizvi,SQL Mastery,92.5,96.1,99.0,83.9,93.3,Yes,Mid
+S4019,Sarah Abbasi,Machine Learning,42.5,40.4,59.8,66.5,24.2,No,Not Placed
+S4316,Ayesha Qureshi,Data Science,75.7,71.0,97.2,85.6,78.4,Yes,Entry
+S4355,Nida Sheikh,Power BI & Tableau,61.6,32.1,30.3,71.4,71.3,No,Not Placed
+S4350,Zain Iqbal,Power BI & Tableau,58.0,41.9,22.7,48.7,41.0,No,Not Placed
+S4144,Mahnoor Ansari,Power BI & Tableau,39.7,36.1,50.3,60.9,26.3,No,Not Placed
+S4062,Imran Ansari,Data Science,63.3,52.5,36.4,66.1,40.2,No,Not Placed
+S4270,Saad Farooqui,SQL Mastery,69.8,84.6,67.2,93.6,75.2,Yes,Mid
+S4109,Yusuf Rashid,Data Science,72.2,91.3,78.5,97.9,94.0,Yes,Entry
+S4156,Sadia Warsi,Business Analytics,70.1,78.4,69.0,90.7,80.1,Yes,Entry
+S4116,Zainab Malik,SQL Mastery,84.0,88.2,80.3,83.7,80.9,Yes,Mid
+S4317,Sadia Rashid,Power BI & Tableau,89.6,75.6,87.2,97.6,63.8,Yes,Entry
+S4086,Hina Hashmi,Data Science,81.7,92.9,82.7,78.2,69.6,Yes,Entry
+S4366,Bilal Chaudhry,Data Science,84.2,77.1,73.5,84.6,59.3,Yes,Entry
+S4049,Nida Sheikh,Machine Learning,73.2,77.2,75.4,100.0,70.2,Yes,Entry
+S4192,Faisal Malik,Business Analytics,33.4,48.7,66.6,35.8,59.1,No,Not Placed
+S4361,Yusuf Khan,SQL Mastery,73.7,79.0,76.4,90.9,69.0,Yes,Entry
+S4340,Yusuf Qureshi,Business Analytics,69.1,76.4,89.1,92.7,67.7,Yes,Mid
+S4137,Laiba Khan,SQL Mastery,76.0,78.3,69.9,84.6,87.5,Yes,Entry
+S4134,Mahnoor Sheikh,Business Analytics,93.2,78.0,81.2,90.8,66.7,Yes,Entry
+S4362,Rabia Baig,Power BI & Tableau,73.8,84.3,92.3,97.3,69.8,Yes,Mid
+S4341,Yusuf Khan,Business Analytics,81.3,94.9,76.0,95.0,87.5,Yes,Mid
